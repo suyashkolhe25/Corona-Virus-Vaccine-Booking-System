@@ -1,6 +1,7 @@
 # Corona-Virus-Vaccine-Booking-System
 Simulates real-world scenario of booking appointments for the COVID-19 vaccine. The system allows users to register and book their vaccine appointments, update their details, search records and also in deleting records. All the records are stored in file named "Vaccine_appointment.txt" which is stored locally on the computer.
 
+
 #
 ![Menu](https://github.com/suyashkolhe25/Corona-Virus-Vaccine-Booking-System/assets/82031106/be117142-9053-4e1c-b68b-d85b95e15916)
 
